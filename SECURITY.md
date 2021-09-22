@@ -8,6 +8,8 @@ Please provide as much information as possible:
 
 - A detailed description of the vulnerability we can use to reproduce your findings.
 
+- Lets add a random line here :)
+
 - Who can exploit this vulnerability and what would they gain. An attack scenario.
 
 - Information about known exploits if any.
